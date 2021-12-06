@@ -1,0 +1,8 @@
+*.o
+*.map
+*.nds
+*.elf
+
+.idea
+cmake-build-debug
+build
